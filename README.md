@@ -12,7 +12,7 @@ Implemented in **Google Colab**, this experiment demonstrates the complete workf
 The objective of this project is to train a YOLOv8 model capable of detecting various objects typically seen in driving scenarios.  
 The **Self-Driving Cars Dataset** contains labeled images captured from a car’s perspective, making it ideal for experimenting with real-world object detection in traffic environments.
 
-### 🔍 Steps Performed
+### Steps Performed
 1. **Environment Setup** – Installed required libraries and configured YOLOv8.  
 2. **Dataset Integration** – Loaded and prepared the Self-Driving Cars dataset.  
 3. **Training Phase** – Trained YOLOv8 on the dataset with custom parameters.  
